@@ -204,9 +204,9 @@ ul#gallery li {
 		clear: both;
 	}
 
-/* Media Queries for Tablet  */
+/* Media Queries  */
 
-@media (min-width: 768) {
+@media (min-width: 768px) {
 
 	.container {
 		width: 100%;
